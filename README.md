@@ -2,6 +2,8 @@
 
 A simple weather application built using HTML, CSS, and JavaScript. The app uses the OpenWeather API to fetch real-time weather data based on the city entered by the user.
 
+## Live Demo
+Website Link: https://afreen1663.github.io/Weather-Dashboard/
 ## Table of Contents
 
 - [Overview](#overview)
