@@ -2,6 +2,8 @@
 
 A simple weather application built using HTML, CSS, and JavaScript. The app uses the OpenWeather API to fetch real-time weather data based on the city entered by the user.
 
+<img width="784" alt="Image" src="https://github.com/user-attachments/assets/4d909d45-e9e7-4163-a5a6-bbaa72b1fb8f" />
+
 ## Live Demo
 Website Link: https://afreen1663.github.io/Weather-Dashboard/
 ## Table of Contents
@@ -64,6 +66,5 @@ The app displays:
 - **Temperature**: Displays the current temperature in Celsius.
 - **Weather Condition**: General description of the weather (e.g., Clear, Rain, Clouds).
 - **High/Low Temperature**: Displays the minimum and maximum temperatures for the day.
-<img width="784" alt="Image" src="https://github.com/user-attachments/assets/4d909d45-e9e7-4163-a5a6-bbaa72b1fb8f" />
 
 This Simple Weather App is a great starting point for learning how to integrate APIs into web applications using JavaScript.
